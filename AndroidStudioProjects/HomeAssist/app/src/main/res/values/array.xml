@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="serviceitemnames">
+        <item>Mobile Repair</item>
+        <item>Refrigerator</item>
+        <item>TV</item>
+        <item>Washing Machine</item>
+        <item>Laptops</item>
+        <item>Desktops</item>
+        <item>Iron</item>
+        <item>Headphones and Charger</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="validCities">
+        <item>Pune</item>
+        <item>Bangalore</item>
+        <item>Delhi NCR</item>
+        <item>Chennai</item>
+        <item>Mumbai</item>
+    </string-array>
+
+</resources>

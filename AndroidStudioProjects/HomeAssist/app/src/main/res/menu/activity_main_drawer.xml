@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/mycity" android:icon="@android:drawable/ic_menu_camera"
+            android:title="Pune" />
+        <item android:id="@+id/myorders" android:icon="@android:drawable/ic_menu_gallery"
+            android:title="My Orders" />
+        <item android:id="@+id/mywallet" android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="My Wallet" />
+        <item android:id="@+id/myoffers" android:icon="@android:drawable/ic_menu_manage"
+            android:title="Offers" />
+        <item android:id="@+id/ratecard" android:icon="@android:drawable/ic_menu_manage"
+            android:title="Rate Card" />
+        <item android:id="@+id/faq" android:icon="@android:drawable/ic_menu_manage"
+            android:title="FAQ" />
+        <item android:id="@+id/tnc" android:icon="@android:drawable/ic_menu_manage"
+        android:title="Terms and Conditions" />
+        <item android:id="@+id/policies" android:icon="@android:drawable/ic_menu_manage"
+            android:title="Policies" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item android:id="@+id/nav_share" android:icon="@android:drawable/ic_menu_share"
+                android:title="Share App" />
+            <item android:id="@+id/nav_manage" android:icon="@android:drawable/ic_menu_manage"
+                android:title="About Us" />
+            <item android:id="@+id/nav_send" android:icon="@android:drawable/ic_menu_send"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+
+</menu>
